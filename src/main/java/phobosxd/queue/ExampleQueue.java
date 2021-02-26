@@ -4,7 +4,17 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * @author PhobosXD
+ * @since 2021-02-26
+ * @version 1.0
+ */
 public class ExampleQueue {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-26
+     * @param args Argumentos da main.
+     */
     public static void main(String[] args) {
         Queue<String> filaBanco = new LinkedList<>();
 

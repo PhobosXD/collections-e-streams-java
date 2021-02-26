@@ -33,6 +33,9 @@ public class ExampleHashSet {
             System.out.println("--> " + nota);
         }
 
+        notas.add(null);
+        System.out.println(notas);
+
         notas.clear();
         System.out.println(notas.isEmpty());
     }

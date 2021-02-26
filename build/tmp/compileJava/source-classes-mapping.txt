@@ -4,3 +4,5 @@ phobosxd/list/ExampleVector.java
  phobosxd.list.ExampleVector
 phobosxd/queue/ExampleQueue.java
  phobosxd.queue.ExampleQueue
+phobosxd/set/ExampleHashSet.java
+ phobosxd.set.ExampleHashSet

@@ -3,7 +3,17 @@ package phobosxd.list;
 import java.util.List;
 import java.util.Vector;
 
+/**
+ * @author PhobosXD
+ * @since 2021-02-26
+ * @version 1.0
+ */
 public class ExampleVector {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-26
+     * @param args Argumentos da main.
+     */
     public static void main(String[] args) {
         List<String> esportes = new Vector<>();
 
@@ -18,7 +28,7 @@ public class ExampleVector {
 
         System.out.println(esportes.get(0));
 
-        for (String esporte: esportes) {
+        for (String esporte : esportes) {
             System.out.println("-> " + esporte);
         }
     }

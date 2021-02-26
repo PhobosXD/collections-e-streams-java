@@ -5,7 +5,17 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * @author PhobosXD
+ * @since 2021-02-26
+ * @version 1.0
+ */
 public class ExampleList {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-26
+     * @param args Argumentos da main.
+     */
     public static void main(String[] args) {
         List<String> nomes = new ArrayList<>();
 
@@ -50,7 +60,7 @@ public class ExampleList {
         posicao = nomes.indexOf("Maria");
         System.out.println(posicao);
 
-        for (String item: nomes) {
+        for (String item : nomes) {
             System.out.println(item);
         }
 

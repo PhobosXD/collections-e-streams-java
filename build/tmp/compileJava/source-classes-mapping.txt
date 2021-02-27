@@ -12,3 +12,5 @@ phobosxd/set/ExampleHashSet.java
  phobosxd.set.ExampleHashSet
 phobosxd/map/ExampleHashMap.java
  phobosxd.map.ExampleHashMap
+phobosxd/map/ExampleTreeMap.java
+ phobosxd.map.ExampleTreeMap

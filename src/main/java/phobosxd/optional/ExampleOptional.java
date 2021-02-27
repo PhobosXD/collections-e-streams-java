@@ -11,7 +11,5 @@ public class ExampleOptional {
 
         optional = Optional.ofNullable(null);
         optional.ifPresentOrElse(System.out::println, () -> System.out.println("Vazio"));
-
-        Optional<String>.of("23");
     }
 }

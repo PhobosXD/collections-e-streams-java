@@ -14,3 +14,11 @@ phobosxd/map/ExampleHashMap.java
  phobosxd.map.ExampleHashMap
 phobosxd/map/ExampleTreeMap.java
  phobosxd.map.ExampleTreeMap
+phobosxd/comparator/Main.java
+ phobosxd.comparator.Main
+phobosxd/comparator/EstudanteComparator.java
+ phobosxd.comparator.EstudanteComparator
+phobosxd/comparator/EstudanteComparable.java
+ phobosxd.comparator.EstudanteComparable
+phobosxd/optional/ExampleOptional.java
+ phobosxd.optional.ExampleOptional

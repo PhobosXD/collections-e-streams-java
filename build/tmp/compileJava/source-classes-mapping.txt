@@ -10,3 +10,5 @@ phobosxd/set/ExampleLinkedHashSet.java
  phobosxd.set.ExampleLinkedHashSet
 phobosxd/set/ExampleHashSet.java
  phobosxd.set.ExampleHashSet
+phobosxd/map/ExampleHashMap.java
+ phobosxd.map.ExampleHashMap

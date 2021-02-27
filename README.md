@@ -19,3 +19,10 @@ Podem ser encontrados exemplos de queue utiliznado LinkedList no package phobosx
 3. Criada pensando na melhoria da performace.
 4. Não permite a busca por um elemento específico, apenas percorrer a estrutura.
 5. Não permite a reordenação dos elementos no momento em que ele é criado.
+
+## Map
+
+1. Guarda um valor e uma chava associada a esse valor.
+2. Permite valores repetidos mas não chaves repetidas.
+3. Permite adição, busca por chave ou valor, atualização, remoção e navegação.
+4. Pode ser ordenadoi.

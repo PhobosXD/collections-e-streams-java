@@ -33,3 +33,11 @@ Interfaces usadas para criar regras de ordenação de objetos.
 
 1. Comparable: Utilizado dentro do próprio domínio para comparar o objeto atual com um outro objeto recebido como parâmetro.
 2. Comparator: Classe externa que é usada para comparar dois objetos recebidos como parâmetros.
+
+## Optional
+
+1. Tratamento de objetos que podem ser nulos.
+2. Possui dois estados:
+ - Presente.
+ - Vazio.
+3. Permite execução de operações em valores que podem ser nulos sem preocupação com NullPointerExceptions.

@@ -30,3 +30,6 @@ Podem ser encontrados exemplos de queue utiliznado LinkedList no package phobosx
 ## Comparator
 
 Interfaces usadas para criar regras de ordenação de objetos.
+
+1. Comparable: Utilizado dentro do próprio domínio para comparar o objeto atual com um outro objeto recebido como parâmetro.
+2. Comparator: Classe externa que é usada para comparar dois objetos recebidos como parâmetros.

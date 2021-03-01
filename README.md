@@ -41,3 +41,15 @@ Interfaces usadas para criar regras de ordenação de objetos.
  - Presente.
  - Vazio.
 3. Permite execução de operações em valores que podem ser nulos sem preocupação com NullPointerExceptions.
+
+## Stream
+
+1. Manipulação de coleções de dados de forma paralela.
+2. Imutável: sempre cria uma nova coleção, de forma a não alterar os dados originais.
+3. Diversas funcionalidades:
+ - Mapping: coleção de mesmo tamanho da origem com os dados alterados.
+ - Filtering: coleção igual ou menor que a origem com os dados intactos.
+ - ForEach: executa uma determinada lógica para cada elemento e não retorna nada.
+ - Peek: semelhante ao ForEach mas retorna a própria coleção.
+ - Couting: retorna um int com o número de elementos da lista.
+ - Grouping: retorna uma coleção agrupada de acordo com uma determinada regra.

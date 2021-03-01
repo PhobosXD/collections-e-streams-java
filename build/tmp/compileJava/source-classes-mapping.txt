@@ -22,3 +22,5 @@ phobosxd/comparator/EstudanteComparable.java
  phobosxd.comparator.EstudanteComparable
 phobosxd/optional/ExampleOptional.java
  phobosxd.optional.ExampleOptional
+phobosxd/stream/ExampleStream.java
+ phobosxd.stream.ExampleStream
